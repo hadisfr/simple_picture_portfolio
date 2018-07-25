@@ -103,7 +103,7 @@
 	</div>
 	<div id="mainbar">
 		<div id="header">
-			<h1><a href=".">Portofolio</a></h1>
+			<h1><a href=".">Portfolio</a></h1>
 			<ul id="mainmenu">
 				<li><a href=".">Home</a></li>
 				<li><a href="http://hadisafari.ir/" target="_blank">hadisafari.ir</a></li>
